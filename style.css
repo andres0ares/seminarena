@@ -1,0 +1,48 @@
+#title {
+    background-color: #006D77;
+    padding: 7% 15%;
+    color: white;
+}
+h1 {
+    font-size: 3rem;
+}
+.navnav{
+    padding: 4% 15%;
+    background-color: #006D77;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 1.4rem;
+}
+
+
+#atividades {
+
+    
+}
+#games {
+    background-color: #83C5BE;
+}
+
+@media (max-width: 992px){
+    .navbar-brand {
+        font-size: 2.2rem;
+    }
+    nav {
+        
+    }
+    .navnav {
+        font-size: 2rem;
+        padding: 4% 2%;
+        font-size: 2rem;
+    }
+    #title {
+        padding: 7% 2%;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 4rem;
+    }
+}
