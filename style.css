@@ -1,3 +1,8 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
 #title {
     background-color: #006D77;
     padding: 7% 15%;
@@ -17,10 +22,6 @@ h1 {
 }
 
 
-#atividades {
-
-    
-}
 #games {
     background-color: #83C5BE;
 }
@@ -29,9 +30,11 @@ h1 {
     .navbar-brand {
         font-size: 2.2rem;
     }
-    nav {
-        
+
+    .row {
+        padding: 0;
     }
+    
     .navnav {
         font-size: 2rem;
         padding: 4% 2%;
