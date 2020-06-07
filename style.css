@@ -13,7 +13,7 @@ h1 {
     font-size: 3rem;
 }
 h2, .img-wire {
-    margin: 70px 0;
+    margin: 0;
 }
 .navnav{
     padding: 4% 15%;
@@ -27,25 +27,38 @@ h2, .img-wire {
 
 /* Testemunhos */
 
-.testemunhos-card {
-    padding: 7% 15%;
-}
-svg {
-    width: 25px;
-}
-
-.testemunhos-icon {
-    fill: grey;
-}
-
 .card-header {
-    text-align: left;
+    background-color: #4F6D7A;
+    color: floralwhite;
 }
+.test-icon {
+    font-size: 1.5rem;
+}
+.test-icon:hover {
+    color: red;
+}
+.card{
+    margin-top: 100px;
+}
+
+/*Atividades*/
+
+.atividades {
+    color: #353535;
+    margin-top: 100px;
+    padding: 100px 0;
+    background-color: #F6AE2D;
+}
+
+.ativ-content {
+    margin: 50px 0;
+}
+
 #games {
     background-color: #83C5BE;
 }
 
-@media (max-width: 992px){
+/*@media (max-width: 992px){
     .navbar-brand {
         font-size: 2.2rem;
     }
@@ -67,7 +80,7 @@ svg {
     h1 {
         font-size: 4rem;
     }
-}
+}*/
 
 /* SITE PLAN CSS */
 

@@ -1,0 +1,23 @@
+{
+  "name": "seminarena",
+  "version": "1.0.0",
+  "description": "Seminatech project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres0ares/seminarena.git"
+  },
+  "author": "Andre Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andres0ares/seminarena/issues"
+  },
+  "homepage": "https://github.com/andres0ares/seminarena#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "fontawesome": "^4.7.1"
+  }
+}
