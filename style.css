@@ -5,8 +5,8 @@ body, html{
     overflow-x: hidden;
 }
 #title {
-    background-color: #4F6D7A;
-    padding: 7% 15%;
+    background-color: #d5b73f;
+    padding: 7% 15% 0 15%;
     color: white;
 }
 h1 {
@@ -17,7 +17,7 @@ h2, .img-wire {
 }
 .navnav{
     padding: 4% 15%;
-    background-color: #4F6D7A;
+    background-color: #d5b73f;
     color: white;
 }
 
