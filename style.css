@@ -5,7 +5,7 @@ body, html{
     overflow-x: hidden;
 }
 #title {
-    background-color: #758E4F;
+    background-color: #4F6D7A;
     padding: 7% 15%;
     color: white;
 }
@@ -17,7 +17,7 @@ h2, .img-wire {
 }
 .navnav{
     padding: 4% 15%;
-    background-color: #758E4F;
+    background-color: #4F6D7A;
     color: white;
 }
 
@@ -37,7 +37,7 @@ h2, .img-wire {
 .test-icon:hover {
     color: red;
 }
-.card{
+.margintop-pattern{
     margin-top: 100px;
 }
 
@@ -54,8 +54,34 @@ h2, .img-wire {
     margin: 50px 0;
 }
 
+/* Domínio e escrituras*/
+
+.margin-esc {
+    margin-bottom: 40px;
+}
+
+/* Jogos*/
+
+.margin-gam {
+    padding-bottom: 60px;
+}
+
 #games {
-    background-color: #83C5BE;
+    background-color: #758E4F;
+    color: floralwhite;
+}
+
+/*Footer*/
+
+.footer {
+    color: #353535;
+    background-color: none;
+    padding: 100px 0;
+}
+.contact-icon {
+    color: #353535;
+    padding: 10px 10px;
+    font-size: 1.5rem;
 }
 
 /*@media (max-width: 992px){
