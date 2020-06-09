@@ -28,26 +28,32 @@ h2, .img-wire {
 /* Testemunhos */
 
 .card-header {
-    background-color: #4F6D7A;
-    color: floralwhite;
+    color: #353535;
 }
 .test-icon {
     font-size: 1.5rem;
 }
-.test-icon:hover {
-    color: red;
+
+.heart-pressed {
+    color: #e63946;
+}
+.star-pressed {
+    color: #ffbe0b;
+}
+.smile-pressed {
+    color: #457b9d;
 }
 .margintop-pattern{
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 /*Atividades*/
 
 .atividades {
-    color: #353535;
+    color: floralwhite;
     margin-top: 100px;
     padding: 100px 0;
-    background-color: #F6AE2D;
+    background-color: #4F6D7A;
 }
 
 .ativ-content {
