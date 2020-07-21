@@ -75,6 +75,28 @@ h2, .img-wire {
 #games {
     background-color: #758E4F;
     color: floralwhite;
+    padding-bottom: 70px;
+}
+
+.btn-contact {
+    color: #758E4F;
+}
+
+/* form */
+s
+.btn-form {
+    clear: left;
+    margin-left: 0;
+    background-color: #758E4F;
+    border-color: floralwhite;
+}
+
+form {
+    padding: 70px;
+}
+
+form h2 {
+    padding: 50px 0;
 }
 
 /*Footer*/
